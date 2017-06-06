@@ -5900,4 +5900,6 @@ body > * {
   color: #000000; }
 
 .carousel img {
-  object-fit: cover; }
+  max-height: 50%;
+  object-fit: cover;
+  object-position: left; }
