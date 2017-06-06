@@ -5899,5 +5899,5 @@ body > * {
 .list-group-item {
   color: #000000; }
 
-.container img {
-  object-fit: contain; }
+.carousel img {
+  object-fit: cover; }
