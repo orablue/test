@@ -49,6 +49,6 @@ $border-radius: .25rem;
 
 @import 'bootstrap-4.0.0-alpha.6';
 
-.container img {
-  object-fit: contain;
+.carousel img {
+  object-fit: cover;
 }
